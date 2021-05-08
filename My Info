@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Thomas Lao - A little about me</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  
+</head>
+<body>
+
+<div class="jumbotron text-center" style="margin-bottom:0">
+    <h1>Computer Science Student - CSULB </h1>
+  <h3>Thomas Lao - Full Time Student <i class="fas fa-user" style="font-size:60px;color:black;text-shadow:2px 2px 4px #000000;"></i></h3>
+
+</div>
+
+
+<div class="container" style="margin-top:30px">
+    
+ <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">A LITTLE ABOUT <span class="text-muted">ME.</span></h2>
+        <p class="lead">Welcome to my Home page. I am a second year in Computer Science. I inspire to be like the hackers in animes and mangas, which is my main source of motivation. I recently moved to a new house with my brother and mother. At the moment, I am still studying to get my degree, but hopefully I get it without much trouble. In hope of getting good at coding, I want to start my own project, but haven't really figured out what to do yet. The only languages I know for now are Python and Javascript. I don't know if I can make a decent indie game with the knowledge I have on me right now, but if I work hard on it one step at a time, I want to make a platform game to challenge my brother in. My dream is to support my brother in the coding aspect of his biomedical engineering. While he put his efferts into engineering, I will be there to help him with the coding. If he doesn't need me I will do my first choice and that is to find a small company and help that company become more popular. Even if I can't do that alone, I want to make a team that can make that happen. I aim to be the main character of my life that worked hard and live a fulfilling life.</p>
+      </div>
+      <div class="col-md-5">
+        <img src="allenr6x6.jpg" alt="Roni Allen" width="400" height="400">
+
+      </div>
+    </div>
+ 
+   <hr class="featurette-divider">
+    
+<div class="row featurette">
+      <div class="col-md-7">
+          <ul>
+          <li>Shugo Chara</li>  
+            <li>Nurarihyon no Mago</li>
+          <li>SKET Dance</li>
+            <li>Gakuen Babysitters</li>
+            <li>Yuru Camp△</li>
+            <li>Gin no Saji</li>
+          
+          </ul>
+        
+      </div>
+      <div class="col-md-5">
+         <h2 class="featurette-heading">ANIMES I LIKE TO  <span class="text-muted">WATCH.</span></h2>
+      </div>
+    </div>
+ 
+   <hr class="featurette-divider">    
+    
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <p>Created by <a href="mailto:r.allen@csulb.edu">Roni Allen</a> -  <a href="https://www.csulb.edu/college-of-engineering/roni-allen" target="_blank">CECS PT Faculty</a></p><p>Last updated on 4-29-21</p>
+    <i class="fas fa-chalkboard-teacher" style="font-size:60px;color:gold;text-shadow:2px 2px 4px #000000;"></i>
+</div>
+    </div>
+</body>
+</html>
